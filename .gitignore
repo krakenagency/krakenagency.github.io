@@ -1,0 +1,10 @@
+# sublime
+*.sublime*
+
+# jekyll
+_site
+.sass-cache
+.jekyll-metadata
+
+# node_modules
+node_modules
