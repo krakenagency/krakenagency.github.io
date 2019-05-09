@@ -29,7 +29,6 @@
 			position: relative;
 
 			&:after {
-				@include vendor('background-image', 'linear-gradient(to top, rgba(10,17,25,0.35) 5%, rgba(10,17,25,0) 35%)');
 				@include vendor('pointer-events', 'none');
 				background-size: cover;
 				content: '';
